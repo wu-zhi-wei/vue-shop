@@ -20,7 +20,7 @@ export default {
   name: 'app',
   data () {
     return {
-      a: 12222
+      a: 12222222222
     }
   },
   components: {
