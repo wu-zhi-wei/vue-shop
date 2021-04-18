@@ -18,6 +18,11 @@ import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   name: 'app',
+  data () {
+    return {
+      a: 1
+    }
+  },
   components: {
     HelloWorld
   }
